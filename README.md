@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on AI application in medical images
+- 🔭 I’m currently working on AI applications in medical images
 - 🌱 I’m currently learning GPU cluster & k8s
 
 <!--
